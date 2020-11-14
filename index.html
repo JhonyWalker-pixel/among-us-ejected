@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="icon" href="./images/amongus-logo.ico"/>
+    <link rel="stylesheet" href="style.css"></link>
+    <title>Among Ejected</title>
+</head>
+<body>
+    <div class="sky">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+      <h1><span>R</span><span>e</span><span>d</span><span class="w"> </span><span>w</span><span>a</span><span>s</span><span class="w"> </span><span>e</span><span>j</span><span>e</span><span>c</span><span>t</span><span>e</span><span>d</span><span>.</span></h1>
+      <div class="person">
+        <div id="rightleg"></div>
+        <div id="leftleg"></div>
+        <div id="backpack"></div>
+        <div id="belly"></div>
+        <div id="eye"></div>
+        <div id="leftleg"></div>
+      </div>
+      <svg xmlns="http://www.w3.org/2000/svg">
+        <filter id="inset" x="-50%" y="-50%" width="200%" height="200%">
+          <feFlood flood-color="black" result="outside-color"/>
+          <feMorphology in="SourceAlpha" operator="dilate" radius="3.5"/>
+          <feComposite in="outside-color" operator="in" result="outside-stroke"/>
+          <feFlood flood-color="#6e1a1a" result="inside-color"/>
+          <feComposite in2="SourceAlpha" operator="in" result="inside-stroke"/>
+          <feMerge>
+            <feMergeNode in="outside-stroke"/>
+            <feMergeNode in="inside-stroke"/>
+          </feMerge>
+        </filter>
+      </svg>
+</body>
+</html>
