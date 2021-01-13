@@ -12,7 +12,11 @@ Animation of ejecting the game of the moment: Among Us. Something simple that ha
 The cool thing is that this project only use HTML 
 with SVG and CSS.
 
+## :floppy_disk: Other related
 
-## :book: Licença
+- [Codepad Game](https://jhonywalker-pixel.github.io/among-us-codepad/)
+
+
+## :book: License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for more details.
