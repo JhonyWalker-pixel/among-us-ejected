@@ -7,7 +7,7 @@
 
 Animation of ejecting the game of the moment: Among Us. Something simple that has been calling attention to what is sensational. Come on see the [final result](https://jhonywalker-pixel.github.io/among-us-ejected/)
 
-## :computer: Languages used
+## :computer: Used languages
 
 The cool thing is that this project only use HTML 
 with SVG and CSS.
