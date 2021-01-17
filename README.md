@@ -16,6 +16,8 @@ with SVG and CSS.
 
 - [Codepad Game](https://jhonywalker-pixel.github.io/among-us-codepad/)
 
+- [Fix Wiring](https://jhonywalker-pixel.github.io/fix-wiring-among-us/)
+
 
 ## :book: License
 
