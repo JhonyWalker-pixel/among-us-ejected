@@ -14,9 +14,9 @@ with SVG and CSS.
 
 ## :floppy_disk: Other related
 
-- [Codepad Game](https://jhonywalker-pixel.github.io/among-us-codepad/)
+- [Codepad Game](https://github.com/JhonyWalker-pixel/among-us-codepad)
 
-- [Fix Wiring](https://jhonywalker-pixel.github.io/fix-wiring-among-us/)
+- [Fix Wiring](https://github.com/JhonyWalker-pixel/fix-wiring-among-us)
 
 
 ## :book: License
