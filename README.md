@@ -5,7 +5,7 @@
 
 ## :clipboard: About the project
 
-Animation of ejecting the game of the moment: Among Us. Something simple that has been calling attention to what is sensational. Come on see the [final result](https://jhonywalker-pixel.github.io/among-us-ejected/)
+Animation of ejecting the game of the moment: Among Us. Something simple that has been calling attention to what is sensational. Come on see the final result.
 
 ## :computer: Used languages
 
