@@ -5,7 +5,7 @@
 
 ## :clipboard: About the project
 
-Animation of ejecting the game of the moment: Among Us. Something simple that has been calling attention to what is sensational. Come on see the final result.
+Animation of ejecting the game of the moment: Among Us. Something simple that has been calling attention to what is sensational.
 
 ## :computer: Used languages
 
