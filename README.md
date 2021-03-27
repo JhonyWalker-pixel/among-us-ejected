@@ -3,7 +3,7 @@
     <img src="./images/logo-repo-among.png" alt="Netflix Clone by Jhony Walker" width="300px" />
 </h1>
 
-##Preview
+## Preview
 
 <img src="./images/ejected-preview.gif" alt="Ejected" width="400px" />
 
