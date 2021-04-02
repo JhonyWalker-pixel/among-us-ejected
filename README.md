@@ -5,7 +5,7 @@
 
 ## :movie_camera: Preview
 
-<img src="./images/ejected-preview.gif" alt="Ejected" width="400px" />
+<p align="center"><img src="./images/ejected-preview.gif" alt="Ejected" width="400px" /></p>
 
 ## :clipboard: About the project
 
